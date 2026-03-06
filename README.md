@@ -1,16 +1,29 @@
-## Hi there 👋
+# Andrew
 
-<!--
-**andrewpatterson3001/andrewpatterson3001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data & Automation Engineer focused on analytics systems and workflow tooling.
 
-Here are some ideas to get you started:
+## What I Build
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• Data pipelines and ETL systems  
+• Automation for operational workflows  
+• Data quality and validation tools  
+• Analytics infrastructure
+
+## Technologies
+
+Python  
+SQL  
+APIs  
+Cloud automation  
+Data engineering tools
+
+## Featured Projects
+
+Feed my Fish
+More Coming Soon
+
+## Currently Exploring
+
+• Data governance systems
+• analytics engineering
+• AI-assisted data tooling
