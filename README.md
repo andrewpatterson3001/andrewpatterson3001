@@ -20,7 +20,6 @@ Data engineering tools
 ## Featured Projects
 
 Feed my Fish
-More Coming Soon
 
 ## Currently Exploring
 
